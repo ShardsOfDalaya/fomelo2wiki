@@ -1101,7 +1101,7 @@
     <p>
         fomelo2wiki @ GitHub
         <br>
-        <a href="https://github.com/evrehuntera/fomelo2wiki">https://github.com/evrehuntera/fomelo2wiki</a>
+        <a href="https://github.com/shardsofdalaya/fomelo2wiki">https://github.com/shardsofdalaya/fomelo2wiki</a>
     </p>
 
     <div id="bottom"><a href="#top">Top</a></div>
